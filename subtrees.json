@@ -1,0 +1,12 @@
+{
+  "core-react-native": {
+    "localFolder": "packages/core-react-native",
+    "repository": "https://github.com/davidbonan/core-react-native.git",
+    "branch": "master"
+  },
+  "jewtrips-app-mobile": {
+    "localFolder": "packages/jewtrips-app-mobile",
+    "repository": "https://github.com/davidbonan/jewtrips-app-mobile.git",
+    "branch": "master"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "test-subtree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davidbonan/test-subtree.git",
+  "author": "David <david-bonan@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
