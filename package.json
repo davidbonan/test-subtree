@@ -1,6 +1,8 @@
 {
   "name": "test-subtree",
+  "private": true,
   "version": "1.0.0",
+  "workspaces": ["packages/*"],
   "main": "index.js",
   "repository": "https://github.com/davidbonan/test-subtree.git",
   "author": "David <david-bonan@hotmail.com>",
