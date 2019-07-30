@@ -8,5 +8,10 @@
     "localFolder": "packages/jewtrips-app-mobile",
     "repository": "https://github.com/davidbonan/jewtrips-app-mobile.git",
     "branch": "master"
+  },
+  "git-test": {
+    "localFolder": "packages/git-test",
+    "repository": "https://github.com/davidbonan/git-test.git",
+    "branch": "master"
   }
 }
