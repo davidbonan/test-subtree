@@ -1,2 +1,2 @@
 # core-react-native
-test subtree
+Utils for react-native
